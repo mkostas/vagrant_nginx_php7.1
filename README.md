@@ -25,6 +25,6 @@ vagrant ssh
 Open browser "http://192.168.33.10/myproject/"
 
 ## PhpMyAdmin
-"http://192.168.33.10/phpmyadmin/"
-username: root
-password: root
+Open browser "http://192.168.33.10/phpmyadmin/"    
+username: root    
+password: root    
